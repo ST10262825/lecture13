@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\SHEBELEZA M\\source\\repos\\simpleConsoleApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{437C444C-CD45-4E09-AE13-EEB8C556EDB0}|simpleConsoleApp\\simpleConsoleApp.csproj|c:\\users\\shebeleza m\\source\\repos\\simpleconsoleapp\\simpleconsoleapp\\obj\\debug\\net8.0\\simpleconsoleapp.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437C444C-CD45-4E09-AE13-EEB8C556EDB0}|simpleConsoleApp\\simpleConsoleApp.csproj|solutionrelative:simpleconsoleapp\\obj\\debug\\net8.0\\simpleconsoleapp.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{437C444C-CD45-4E09-AE13-EEB8C556EDB0}|simpleConsoleApp\\simpleConsoleApp.csproj|c:\\users\\shebeleza m\\source\\repos\\simpleconsoleapp\\simpleconsoleapp\\simpleconsoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{437C444C-CD45-4E09-AE13-EEB8C556EDB0}|simpleConsoleApp\\simpleConsoleApp.csproj|solutionrelative:simpleconsoleapp\\simpleconsoleapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{437C444C-CD45-4E09-AE13-EEB8C556EDB0}|simpleConsoleApp\\simpleConsoleApp.csproj|c:\\users\\shebeleza m\\source\\repos\\simpleconsoleapp\\simpleconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{437C444C-CD45-4E09-AE13-EEB8C556EDB0}|simpleConsoleApp\\simpleConsoleApp.csproj|solutionrelative:simpleconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "simpleConsoleApp.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\SHEBELEZA M\\source\\repos\\simpleConsoleApp\\simpleConsoleApp\\obj\\Debug\\net8.0\\simpleConsoleApp.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "simpleConsoleApp\\obj\\Debug\\net8.0\\simpleConsoleApp.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\SHEBELEZA M\\source\\repos\\simpleConsoleApp\\simpleConsoleApp\\obj\\Debug\\net8.0\\simpleConsoleApp.GlobalUsings.g.cs",
+              "RelativeToolTip": "simpleConsoleApp\\obj\\Debug\\net8.0\\simpleConsoleApp.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T21:04:07.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "simpleConsoleApp",
+              "DocumentMoniker": "C:\\Users\\SHEBELEZA M\\source\\repos\\simpleConsoleApp\\simpleConsoleApp\\simpleConsoleApp.csproj",
+              "RelativeDocumentMoniker": "simpleConsoleApp\\simpleConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\SHEBELEZA M\\source\\repos\\simpleConsoleApp\\simpleConsoleApp\\simpleConsoleApp.csproj",
+              "RelativeToolTip": "simpleConsoleApp\\simpleConsoleApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-13T21:04:56.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SHEBELEZA M\\source\\repos\\simpleConsoleApp\\simpleConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "simpleConsoleApp\\Program.cs",
