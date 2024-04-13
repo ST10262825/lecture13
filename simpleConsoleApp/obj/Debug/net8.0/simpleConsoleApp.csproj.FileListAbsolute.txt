@@ -1,0 +1,14 @@
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\bin\Debug\net8.0\simpleConsoleApp.exe
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\bin\Debug\net8.0\simpleConsoleApp.deps.json
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\bin\Debug\net8.0\simpleConsoleApp.runtimeconfig.json
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\bin\Debug\net8.0\simpleConsoleApp.dll
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\bin\Debug\net8.0\simpleConsoleApp.pdb
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\simpleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\simpleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\simpleConsoleApp.AssemblyInfo.cs
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\simpleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\simpleConsoleApp.dll
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\refint\simpleConsoleApp.dll
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\simpleConsoleApp.pdb
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\simpleConsoleApp.genruntimeconfig.cache
+C:\Users\SHEBELEZA M\source\repos\simpleConsoleApp\simpleConsoleApp\obj\Debug\net8.0\ref\simpleConsoleApp.dll
